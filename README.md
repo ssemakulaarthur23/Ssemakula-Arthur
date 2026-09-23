@@ -7,8 +7,7 @@ Cybersecurity projects, Linux labs, networking exercises, and practical security
 🤝 I'm looking to collaborate on
 Beginner-friendly cybersecurity, networking, Python, Linux, and open-source projects where I can learn and contribute.
 
-🆘 I'm looking for help with
-Improving my penetration testing, digital forensics, network security, and Python skills through more hands-on projects.
+🆘 I have worked on projects including penetration testing, digital forensics, network security, and Python skills through more hands-on projects.
 
 🌱 I'm currently learning
 Cybersecurity, ethical hacking, Linux/Kali, networking, Python, C programming, digital forensics, and security tools such as Nmap, Wireshark, Burp Suite, and theHarvester.
